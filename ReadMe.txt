@@ -1,0 +1,1 @@
+Aplicativo desenvolvido em Kotlin focado em simples funcionalidades do GPS como posicionamento, marcação e zoom.
